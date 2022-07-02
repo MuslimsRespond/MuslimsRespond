@@ -212,3 +212,15 @@
 [Reliance of the Traveller and Honor Killing (o1.2)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8pw23l/debunked_reliance_of_the_traveller_endorses_honor/)
 
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+	[Reliance of the Traveller and Honor Killing (o1.2)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8pw23l/debunked_reliance_of_the_traveller_endorses_honor/)
+</p>
+</details>
