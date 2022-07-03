@@ -1,4 +1,3 @@
-
 # Qur'an and Hadith contextualized
 
 ## Table of contents
