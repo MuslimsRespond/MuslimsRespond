@@ -70,7 +70,9 @@
 </p>
 </details>
 
-**Science**
+<details><summary>
+<b><font size="+1">Science<a name="Science"></a> </font></b> <a name="Science"></a></summary>
+<p> 
 
 [Understanding Science and the Quran](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=U_8rm7F8zE4)  (Video)
 
@@ -82,6 +84,8 @@
 
 [Does Supernatural Phenomena Mentioned in Islamic Texts Require Scientific Evidence?](https://web.archive.org/web/20210122041815/https://old.reddit.com/r/MuslimsRespond/comments/9c7nkr/does_supernatural_phenomena_mentioned_in_islamic/)
 
+</p>
+</details>
 
 <details><summary>
 <b><font size="+1">Structure<a name="Structure"></a> </font></b> <a name="Structure"></a></summary>
@@ -94,6 +98,9 @@
 [A Glimpse at the Order of the Chapters of Quran](https://web.archive.org/web/20210122041815/http://www.askimam.org/public/question_detail/37895)
 
 [Introduction to Parallelisms and Chiastic Structures in the Qur'an](https://web.archive.org/web/20210122041815/https://quranic-musings.blogspot.com/2014/10/an-introduction-to-parallelisms-and.html)
+
+</p>
+</details>
 
 <details><summary>
 <b><font size="+1">The Quran and General Topics<a name="General"></a> </font></b> <a name="General"></a></summary>
