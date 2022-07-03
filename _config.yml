@@ -1,0 +1,97 @@
+title:          Salafiyyah
+description:    "Knowledge of Shari'ah"
+baseurl:        "/"
+url:            "https://alsalafiyyah.github.io"
+author:
+  name:         Instagram@Alsalafiyyah
+  email:        alsalafiyyah@icloud.com
+
+github: [metadata]
+encoding: UTF-8
+timezone: America/New_York
+permalink: pretty
+paginate: 20
+paginate_path: "/fatwas/:num/"
+markdown: kramdown
+lang: en
+note:
+    text: "May Allah grant us success. May peace and blessings be upon our Prophet, his family and Companions"
+include:
+  - _pages
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - .gitignore
+  - Gemfile.lock
+
+Tags: '/tags/'
+tag_page: '/tags/'
+Categories: '/category/'
+category_page: '/category/'
+
+tipue_search:
+  include:
+    pages: false
+  exclude:
+    files: [index.html, search.html, sitemap.xml, feed.xml, docs, BingSiteAuth.xml, Gemfile.lock, Gemfile, manifest.yml, refutal.html, wahhabi.html, muqolat]
+
+webmaster_verifications:
+  google: 0AfP6ouBUqp8IPbvV8AgSXFY3YTtSTTriIZ2Lyt43NI
+  bing: 4F1A0A46CAA92F43191A0C4B37948DD7
+  yandex: 605ab18d7c20bdc0
+
+#Manifest
+manifest_name: Salafiyyah
+manifest_description: 
+manifest_lang: en
+manifest_background_color: "#fff"
+manifest_short_name:
+manifest_display: standalone
+
+defaults:
+  # default en
+  - values:
+      locale: en
+  # config posts
+  - scope:
+      path: "_posts/**"
+      type: posts
+    values:
+      layout: post
+      permalink: /:title
+  - scope:
+      path: _posts/ar/**
+      type: posts
+    values:
+      layout: post
+      locale: ar
+      permalink: /ar/:title
+
+collections:
+  refutals:
+    output: true
+    permalink: /refutals/:path/
+  wahhabism:
+    output: true
+    permalink: /wahhabism/:path/
+  muqolat:
+    output: true
+    permalink: /muqolat/:title/
+  audios:
+    output: true
+    active: audios
+    permalink: /audios/:title/
+  fawaid:
+    output: true
+    active: fawaid
+    permalink: /fawaid/:title/
+    
+        
+
+

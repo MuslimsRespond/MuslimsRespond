@@ -1,0 +1,12 @@
+---
+layout: page
+---
+
+{% if page.date %}
+ <div class="content black-text">
+ {{ content }}
+ {% include info.html %}
+</div>
+{% endif %}
+
+{% include scripts.html %}

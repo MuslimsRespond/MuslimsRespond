@@ -1,0 +1,54 @@
+name: English
+
+blog:
+  title: Salafiyyah
+  description: 
+  author: Instagram@Alsalafiyyah
+  site_url: /
+  404: "The page you requested does not exist"
+  404_text: "Page not found."
+  ar: "ع"
+  en: "en"
+
+menu:
+  - name: Home
+    link: /
+    active: home
+  - name: Muqolat
+    link: /muqolat/
+    active: muqolat
+  - name: Fatwas
+    link: /fatwas/
+    active: fatwas
+  - name: Browse
+    link: /topic
+    active: topic
+  - name: Downloads
+    link: /downloads/
+    active: downloads
+  - name: Wahhabiyah
+    link: /wahhabism/
+    active: wahhabiyah
+  - name: Refutals
+    link: /refutations/
+    active: refutations
+
+page:
+  next: Next
+  prev: Prev
+  more: Read more
+  categories: Categories
+  basmalah: "In the Name of Allah, the Most Beneficent, the Most Merciful."
+
+post:
+  dated: "Posted on:"
+  print: Print
+  share: Share on
+  related_fatwas: Related fatwas
+  comments: Comments
+  book: Book
+  vol: Vol
+  end: "May Allah grant us success. May peace and blessings be upon our Prophet Muhammad, his family, and Companions."
+  deputy: Deputy
+  chairman: Deputy Chairman
+  member: Member

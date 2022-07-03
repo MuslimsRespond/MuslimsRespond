@@ -1,0 +1,21 @@
+---
+title: Fatwas
+layout: global
+active: fatwas
+uid: fatwas
+locale: en
+---
+
+         {% for post in paginator.posts %}
+          <div class="card grey darken-3">
+            <div class="card-content white-text">
+              <a href="{{ post.url | prepend: site.baseurl }}"> <span class="card-title">{{ post.title }}</span></a>
+              {{ post.content | strip_html | truncatewords: 30 }}
+            </div>
+            <div class="card-action">
+              <small><span class="white-text">{{ post.hijri }}</span></small>
+              <a class="secondary-content hide" href="{{ post.url | prepend: site.baseurl }}">Read</a>
+            </div>
+          </div>
+         {% endfor %}
+         {% include pagination.html %}
