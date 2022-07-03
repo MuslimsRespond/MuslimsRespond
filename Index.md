@@ -1,11 +1,19 @@
 # Index
+Praise be to Allah, Lord of the Worlds. Peace and Blessings of Allah be upon our Messenger and Master, Muhammad. 
 
+This is complete list 
 ## Table of contents
 1. [Common Arguments against Islam | Refuted ](#CommonArguments)
 2. [Judaism and Christianity](#JudaismChristianity)
-3. [Rebuttals](#Rebuttals)
-4. [Resources/Articles on Islam](#Resources)
-	a) Quranic and Hadith Contextualized
+	1. [Judaism](#Judaism)
+	2. [Christianity](#Christianity)
+4. [Rebuttals](#Rebuttals)
+5. [Resources/Articles on Islam](#Resources)
+	1. [Quranic and Hadith Contextualized](#Context)
+	2. [General Articles](#General)
+	3. [The Prophet **ﷺ**](#Prophet)
+	4. [Islam, War, and Violence](#Violence)
+	5. [Common References - In Context](#Common)
 
 ## Common Arguments against Islam | Refuted <a name="CommonArguments"></a>
 [Did The Prophet  ﷺ Makeup Islam For His Own Benefit?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zl72k/did_the_prophet_%EF%B7%BA_makeup_islam_for_his_own_benefit/)
@@ -31,20 +39,15 @@
 [Muslims Believe Muhammad Flew on a Winged Horse So They Can’t Speak About Science, Reason, or Logic?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fy30e1/muslims_believe_muhammad_flew_on_a_winged_horse/)
 
 ## Judaism and Christianity <a name="JudaismChristianity"></a>
-[Love Your Enemies In Islam? (Matthew 5:44)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8nrw8o/love_your_enemies_in_islam_matthew_544/)
 
-[Is Matthew 26:52 Proof of a Peaceful Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7ymycf/is_matthew_2652_proof_of_a_peaceful_christianity/)
+<details><summary>
+<b><font size="+1">Judaism (in most cases applicable to Christianity as well)</font></b><a name="Judaism"></a></summary>
+<p>
 
-[Is Christianity a Religion of Peace? On Fallacious Appeals to the Disciples](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/cct41s/is_christianity_a_religion_of_peace_on_fallacious/)
-
+Judaism (in most cases applicable to Christianity as well)
 [Judaism and White Lies](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/805fxp/judaism_and_white_lies/)
 
-[Does Christianity Allow Deception?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/985mwk/does_christianity_allow_deception/)
-
-[Does Christian Jesus Hate All Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8ie1bp/does_christian_jesus_hate_all_unbelievers/)
-
-[Are All Muslims Lying Anti-Christs According to Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zxcbc/are_all_muslims_lying_antichrists_according_to/)
-
+[Corruption of the Torah via the Oral Law](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/ajsn1b/corruption_of_the_torah_via_the_oral_law/)
 [Does the Bible Allow Jews and Christians to be Friends with Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/96isua/does_the_bible_allow_jews_and_christians_to_be/)
 
 [Biblical Laws, Values and Theology](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8xcscr/biblical_laws_values_and_theology/)
@@ -63,11 +66,31 @@
 
 [Child Marriage and Consummation in the Bible and Talmud](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/81zu8n/child_marriage_and_consummation_in_the_bible_and/)
 
+</p>
+</details>
+
+<details><summary>
+<b><font size="+1">Christianity<a name="Christianity"></a> </font></b>  <a name="Judaism"></a></summary>
+<p>
+
+
+[Love Your Enemies In Islam? (Matthew 5:44)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8nrw8o/love_your_enemies_in_islam_matthew_544/)
+
+[Is Matthew 26:52 Proof of a Peaceful Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7ymycf/is_matthew_2652_proof_of_a_peaceful_christianity/)
+
+[Is Christianity a Religion of Peace? On Fallacious Appeals to the Disciples](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/cct41s/is_christianity_a_religion_of_peace_on_fallacious/)
+
+
+[Does Christianity Allow Deception?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/985mwk/does_christianity_allow_deception/)
+
+[Does Christian Jesus Hate All Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8ie1bp/does_christian_jesus_hate_all_unbelievers/)
+
+[Are All Muslims Lying Anti-Christs According to Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zxcbc/are_all_muslims_lying_antichrists_according_to/)
+
+
 [William Lane Craig on the Incarnation and Trinity](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8zom7g/dr_william_lane_craig_on_the_incarnation_and/)
 
 [William Lane Craig on Lying in Christianity and Taqiyya](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/gyg4a2/william_lane_craig_on_lying_in_christianity_and/)
-
-[Corruption of the Torah via the Oral Law](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/ajsn1b/corruption_of_the_torah_via_the_oral_law/)
 
 [Is John 8:1-11 ("Let him who is without sin among you be the first to throw a stone") in the Bible or a Fabrication?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8sf34w/is_john_8111_let_him_who_is_without_sin_among_you/)
 
@@ -83,7 +106,10 @@
 
 [Refuting the Positive Arguments for the Resurrection (RPAR) Part 2](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dz9ivp/refuting_the_positive_arguments_for_the/)
 
-## Sub paragraph <a name="Rebuttals"></a>
+</p>
+</details>
+
+## Rebuttals <a name="Rebuttals"></a>
 [Debunked: Ex-Muslims](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/801cmy/debunked_exmuslims/)
 
 [Debunked: Christian Apologetics](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/801e21/debunked_christian_apologetics/)
@@ -102,8 +128,15 @@
 
 [Resource List: Refuting Anti-Hadith Arguments](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/837gwx/resource_list_refuting_antihadith_arguments/)
 
+
+
 ## Resources/Articles on Islam <a name="Resources"></a>
-**Quranic and Hadith Contextualized**
+
+
+<details><summary>
+<b><font size="+1">Quranic and Hadith Contextualized<a name="Context"></a> </font></b>  <a name="Context"></a></summary>
+<p>
+
 
 [Quran and Hadith - In Context](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/82y1uh/quran_and_hadith_in_context/)
 
@@ -111,7 +144,15 @@
 
 [Most Misinterpreted Verses Of The Quran?](https://web.archive.org/web/20210122041931/https://discover-the-truth.com/2016/05/27/most-misinterpreted-verses-of-the-quran/)
 
-**General Articles**
+</p>
+</details>
+
+
+
+<details><summary>
+<b><font size="+1">General Articles<a name="General"></a> </font></b>  <a name="General"></a></summary>
+<p>
+
 
 [Question and Answer](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/elwb8n/question_and_answer_articles/)
 
@@ -143,7 +184,14 @@
 
 [Muslims Believe Muhammad Flew on a Winged Horse So They Can’t Speak About Science, Reason, or Logic?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fy30e1/muslims_believe_muhammad_flew_on_a_winged_horse/)
 
+</p>
+</details>
+
 **The Prophet  ﷺ**
+
+<details><summary>
+<b><font size="+1">The Prophet ﷺ<a name="Prophet"></a> </font></b>  <a name="Prophet"></a></summary>
+<p>
 
 [Does Islam Deify Prophet Muhammad  ﷺ?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/c6rti5/does_islam_deify_prophet_muhammad_%EF%B7%BA/)
 
@@ -163,7 +211,15 @@
 
 [The Actions of the Prophet  ﷺ and Moral Relativism](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/a5lo1d/the_actions_of_the_prophet_%EF%B7%BA_and_moral_relativism/)
 
-**Islam, War, and Violence**
+</p>
+</details>
+
+
+<details><summary>
+<b><font size="+1">Islam, War, and Violence<a name="Violence"></a> </font></b>  <a name="Violence"></a></summary>
+<p>
+
+
 
 [Islam, War, and the Main Factors in the Spread of Islam](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/9ajnei/islam_war_and_the_main_factors_in_the_spread_of/)
 
@@ -185,7 +241,15 @@
 
 [Resource List: Refuting Terrorists](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7wuzp4/resource_list_refuting_terrorists/)
 
-**Common References - In Context**
+</p>
+</details>
+
+
+
+<details><summary>
+<b><font size="+1">Common References - In Context<a name="Common"></a> </font></b>  <a name="Common"></a></summary>
+<p>
+
 
 [Can Everything Ibn Ishaq Writes Be Quoted Authoritatively?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8tepsp/can_everything_ibn_ishaq_writes_be_quoted/)
 
@@ -211,16 +275,5 @@
 
 [Reliance of the Traveller and Honor Killing (o1.2)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8pw23l/debunked_reliance_of_the_traveller_endorses_honor/)
 
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-	[Reliance of the Traveller and Honor Killing (o1.2)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8pw23l/debunked_reliance_of_the_traveller_endorses_honor/)
 </p>
 </details>
