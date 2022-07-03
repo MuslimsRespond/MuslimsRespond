@@ -12,23 +12,18 @@
 
 ## Approaching the Hadith Corpus <a name="Approach"></a>
 
-
-
-
-[Reason and Revelation](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=ImVMxPY67Mk)
-
-[Verifying and Understanding Hadith](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=heitI0S9BCo)
-
-[Interpreting Hadith and Norms of Speech](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=is64F16OXiY)
-
-[Understanding The Hadiths of 'Prophetic Medicine'](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=6agIpDJqw_0)
-
-[Hadith Contradicting Empirical Evidence and Ethics](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=Df-fx8ubreo&list=PL62ok5eZyGBS1Uw3qsj0KLU6GH_4oYGN5&index=5)
-
-[Does Supernatural Phenomena Mentioned in Islamic Texts Require Scientific Evidence?](https://web.archive.org/web/20210122041815/https://old.reddit.com/r/MuslimsRespond/comments/9c7nkr/does_supernatural_phenomena_mentioned_in_islamic/)
-
-[Give It a Second Thought: Guidelines on How to Approach Seemingly Problematic Hadīth](https://web.archive.org/web/20210122041815/http://www.ilmgate.org/give-it-a-second-thought-guidelines-on-how-to-approach-seemingly-problematic-hadith/)
-
+ - [Reason and Revelation - Mawlana Yousuf
+   Ghouse](https://www.youtube.com/watch?v=ImVMxPY67Mk)
+ - [Verifying and Understanding Hadith - Dr. Jonathan
+   Brown](https://www.youtube.com/watch?v=heitI0S9BCo)
+ - [Understanding The Hadiths of 'Prophetic Medicine - Yasir
+   Kazi](https://www.youtube.com/watch?v=6agIpDJqw_0)
+ - [Give It a Second Thought: Guidelines on How to Approach Seemingly
+   Problematic Hadīth - Mawlana Muntasir
+   Zaman](http://www.ilmgate.org/give-it-a-second-thought-guidelines-on-how-to-approach-seemingly-problematic-hadith/)
+ - [Does Supernatural Phenomena Mentioned in Islamic Texts Require
+   Scientific
+   Evidence?](https://web.archive.org/web/20210122041815/reddit.com/r/MuslimsRespond/comments/9c7nkr/does_supernatural_phenomena_mentioned_in_islamic/)
 
 ## Preservation <a name="Preservation"></a>
 
@@ -36,9 +31,9 @@
 
 [Resource List: Refuting Anti-Hadith Arguments](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/837gwx/resource_list_refuting_antihadith_arguments/)
 
-[Tracing Transmissions: The Accuracy of Sahih Muslim](https://web.archive.org/web/20210122041815/https://yaqeeninstitute.org/en/muntasir-zaman/tracing-transmissions-the-accuracy-of-sahih-muslim/?utm_content=83012472&utm_medium=social&utm_source=facebook&hss_channel=fbp-1363195707041177)
+[Tracing Transmissions: The Accuracy of Sahih Muslim - Mawlana Muntasir Zaman](https://yaqeeninstitute.org/en/muntasir-zaman/tracing-transmissions-the-accuracy-of-sahih-muslim/?utm_content=83012472&utm_medium=social&utm_source=facebook&hss_channel=fbp-1363195707041177)
 
-[Can We Trust Hadith Literature? Understanding the Process of Transmission and Preservation](https://web.archive.org/web/20210122041815/https://yaqeeninstitute.org/en/muntasir-zaman/can-we-trust-hadith-literature-understanding-the-process-of-transmission-and-preservation/)
+[Can We Trust Hadith Literature? Understanding the Process of Transmission and Preservation - Mawlana Muntasir Zaman](https://yaqeeninstitute.org/en/muntasir-zaman/can-we-trust-hadith-literature-understanding-the-process-of-transmission-and-preservation/)
 
 
 
@@ -165,4 +160,3 @@
 [60]  [The "Hang your whip where the members of the household can see it" Hadith](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/hklolv/the_hang_your_whip_where_the_members_of_the/)  al-Tabaraani 10/248, Majma’ al-Zawaa’id 8/106, Kash-shaf (Vol. 1, p. 525)
 
 [61]  [The Sun Sets in a Spring of Warm Water Hadith](https://web.archive.org/web/20210122041815/https://www.letmeturnthetables.com/2012/09/weak-hadith-sun-spring-warm-water.html)  Sunan Abu Dawud 3991/4002
-
