@@ -12,27 +12,37 @@ This is complete list
 
 ## Common Arguments against Islam | Refuted <a name="CommonArguments"></a>
 
- - [Did The Prophet  ﷺ Makeup Islam For His Own
+   [Did The Prophet  ﷺ Makeup Islam For His Own
    Benefit?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zl72k/did_the_prophet_%EF%B7%BA_makeup_islam_for_his_own_benefit/)
- - [Prophet Muhammad  ﷺ's Marriage to Aisha
+   
+  [Prophet Muhammad  ﷺ's Marriage to Aisha
    (RA)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7uk1tg/prophet_muhammad_sawss_marriage_to_aisha_at_young/)
- - [What is the Islamic teaching on Female
+   
+  [What is the Islamic teaching on Female
    Circumcision?](https://web.archive.org/web/20210122041931/http://www.drhatemalhaj.com/home/clarification-of-my-position-on-female-circumcision/)
- - [Interpreting the Quran and
+   
+  [Interpreting the Quran and
    Violence](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/h9jfnv/meme_debunked_manual_for_interpreting_the_quran/)
- - [Moderate Muslims Want Radical Muslims To Kill
+   
+  [Moderate Muslims Want Radical Muslims To Kill
    You](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fm07bs/meme_debunked_moderate_muslims_want_radical/)
- - [Why did Prophet Muhammad  ﷺ Raid Caravans in
+   
+  [Why did Prophet Muhammad  ﷺ Raid Caravans in
    Medina?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8401u1/why_did_prophet_muhammad_raid_caravans_in_medina/)
- - [Is What Happened with Banu Qurayza Actually a
+   
+  [Is What Happened with Banu Qurayza Actually a
    Problem?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/97ae3n/is_what_happened_with_banu_qurayza_actually_a/)
- - [Did Islam Spread by the Sword? A Critical Look at Forced
+   
+  [Did Islam Spread by the Sword? A Critical Look at Forced
    Conversions](https://web.archive.org/web/20210122041931/https://yaqeeninstitute.org/en/hassam-munir/did-islam-spread-by-the-sword-a-critical-look-at-forced-conversions/)
- - [Debunked: The "Satanic
+   
+ [Debunked: The "Satanic
    Verses"](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8626h0/debunked_the_satanic_verses/)
- - [Muhammad, Angel Gabriel, and
+   
+  [Muhammad, Angel Gabriel, and
    Hallucinations](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/gtjbh7/muhammad_angel_gabriel_and_hallucinations/)
- - [Muslims Believe Muhammad Flew on a Winged Horse So They Can’t Speak
+   
+  [Muslims Believe Muhammad Flew on a Winged Horse So They Can’t Speak
    About Science, Reason, or
    Logic?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fy30e1/muslims_believe_muhammad_flew_on_a_winged_horse/)
 
