@@ -9,11 +9,6 @@ This is complete list
 	2. [Christianity](#Christianity)
 4. [Rebuttals](#Rebuttals)
 5. [Resources/Articles on Islam](#Resources)
-	1. [Quranic and Hadith Contextualized](#Context)
-	2. [General Articles](#General)
-	3. [The Prophet **ﷺ**](#Prophet)
-	4. [Islam, War, and Violence](#Violence)
-	5. [Common References - In Context](#Common)
 
 ## Common Arguments against Islam | Refuted <a name="CommonArguments"></a>
 [Did The Prophet  ﷺ Makeup Islam For His Own Benefit?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zl72k/did_the_prophet_%EF%B7%BA_makeup_islam_for_his_own_benefit/)
@@ -44,14 +39,13 @@ This is complete list
 <b><font size="+1">Judaism (in most cases applicable to Christianity as well)</font></b><a name="Judaism"></a></summary>
 <p>
 
-Judaism (in most cases applicable to Christianity as well)
 [Judaism and White Lies](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/805fxp/judaism_and_white_lies/)
 
 [Corruption of the Torah via the Oral Law](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/ajsn1b/corruption_of_the_torah_via_the_oral_law/)
 [Does the Bible Allow Jews and Christians to be Friends with Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/96isua/does_the_bible_allow_jews_and_christians_to_be/)
 
 [Biblical Laws, Values and Theology](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8xcscr/biblical_laws_values_and_theology/)
-
+***
 [Head Covering Laws in the Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/943nyv/head_covering_laws_in_the_bible/)
 
 [The Testimony of Women in The Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8o3x0f/the_testimony_of_women_in_the_bible/)
@@ -74,10 +68,14 @@ Judaism (in most cases applicable to Christianity as well)
 <p>
 
 
+[Is John 8:1-11 ("Let him who is without sin among you be the first to throw a stone") in the Bible or a Fabrication?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8sf34w/is_john_8111_let_him_who_is_without_sin_among_you/)
+
 [Love Your Enemies In Islam? (Matthew 5:44)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8nrw8o/love_your_enemies_in_islam_matthew_544/)
 
 [Is Matthew 26:52 Proof of a Peaceful Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7ymycf/is_matthew_2652_proof_of_a_peaceful_christianity/)
 
+
+***
 [Is Christianity a Religion of Peace? On Fallacious Appeals to the Disciples](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/cct41s/is_christianity_a_religion_of_peace_on_fallacious/)
 
 
@@ -87,20 +85,26 @@ Judaism (in most cases applicable to Christianity as well)
 
 [Are All Muslims Lying Anti-Christs According to Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zxcbc/are_all_muslims_lying_antichrists_according_to/)
 
+***
+
+
+
 
 [William Lane Craig on the Incarnation and Trinity](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8zom7g/dr_william_lane_craig_on_the_incarnation_and/)
 
 [William Lane Craig on Lying in Christianity and Taqiyya](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/gyg4a2/william_lane_craig_on_lying_in_christianity_and/)
 
-[Is John 8:1-11 ("Let him who is without sin among you be the first to throw a stone") in the Bible or a Fabrication?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8sf34w/is_john_8111_let_him_who_is_without_sin_among_you/)
-
-[Graphic: New Testament Reliability Comparison to Ancient Documents](https://web.archive.org/web/20210122041931/https://callingchristians.com/2017/03/11/graphic-nt-reliability-comparison-to-ancient-documents/?fbclid=IwAR2X0se2H41MuMdMkqn5pspmlFAXHZzdDtgZo12ShgqalxYRZCeNoxQNfyY)
+***
 
 [Bible Study: Writing Genealogies and Scribes Changing Scripture](https://web.archive.org/web/20210122041931/https://www.facebook.com/callingchristians/videos/513193152498459/)
 
 [Bible Study: Islam and the Crucifixion](https://web.archive.org/web/20210122041931/https://www.facebook.com/callingchristians/videos/298431284098655/)
 
 [Bible Study: A Forged Prophecy and Jesus’ Baptism](https://web.archive.org/web/20210122041931/https://www.facebook.com/callingchristians/videos/384648645441416/)
+
+
+[Graphic: New Testament Reliability Comparison to Ancient Documents](https://web.archive.org/web/20210122041931/https://callingchristians.com/2017/03/11/graphic-nt-reliability-comparison-to-ancient-documents/?fbclid=IwAR2X0se2H41MuMdMkqn5pspmlFAXHZzdDtgZo12ShgqalxYRZCeNoxQNfyY)
+****
 
 [Refuting the Positive Arguments for the Resurrection (RPAR) Part 1](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dyrcfb/refuting_the_positive_arguments_for_the/)
 
@@ -121,6 +125,8 @@ Judaism (in most cases applicable to Christianity as well)
 [Debunked: Mohammed's Koran By Tommy Robinson](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7vw8pk/debunked_mohammeds_koran_by_tommy_robinson/)
 
 [Debunked: 'The People Vs Muhammad – Psychological Analysis’](https://web.archive.org/web/20210122041931/https://qurananswers.me/2017/09/11/people-vs-muhammad-refuted/)
+
+***
 
 [Resource List: Refuting Atheists](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/9byy5h/resource_list_refuting_atheists/)
 
@@ -187,7 +193,6 @@ Judaism (in most cases applicable to Christianity as well)
 </p>
 </details>
 
-**The Prophet  ﷺ**
 
 <details><summary>
 <b><font size="+1">The Prophet ﷺ<a name="Prophet"></a> </font></b>  <a name="Prophet"></a></summary>
