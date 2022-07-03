@@ -165,4 +165,4 @@
 [60]  [The "Hang your whip where the members of the household can see it" Hadith](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/hklolv/the_hang_your_whip_where_the_members_of_the/)  al-Tabaraani 10/248, Majma’ al-Zawaa’id 8/106, Kash-shaf (Vol. 1, p. 525)
 
 [61]  [The Sun Sets in a Spring of Warm Water Hadith](https://web.archive.org/web/20210122041815/https://www.letmeturnthetables.com/2012/09/weak-hadith-sun-spring-warm-water.html)  Sunan Abu Dawud 3991/4002
-> Written with [StackEdit](https://stackedit.io/).
+
