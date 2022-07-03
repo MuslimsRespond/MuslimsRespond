@@ -1,3 +1,4 @@
+
 # Qur'an and Hadith contextualized
 
 ## Table of contents
@@ -64,6 +65,10 @@
 [Does The Quran Mentioning Stories Found In Previous Writings Threaten Its Credibility?](https://web.archive.org/web/20210122041815/https://www.call-to-monotheism.com/does_the_qur_an_mentioning_stories_found_in_previous_writings_threaten_its_credibility_)
 
 [Evidence That Islam Teaches That There Was Textual Corruption of The Christian and Jewish Scriptures](https://web.archive.org/web/20210122041815/https://www.call-to-monotheism.com/evidence_that_islam_teaches_that_there_was_textual_corruption_of_the_christian_and_jewish_scriptures)
+
+
+</p>
+</details>
 
 **Science**
 
