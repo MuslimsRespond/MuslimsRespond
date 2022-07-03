@@ -1,214 +1,16 @@
 
-# Qur'an and Hadith contextualized
+
+# Ahadith contextualized
 
 ## Table of contents
-1. [Qur'an](#Quran)
-	1. [Inimitability and Preservation](#Inimitability)
-	2. [Interpretation and Abrogation](#Interpretation)
-	3. [Previous Scriptures](#Previous)
-	4. [Science](#Science)
-	5. [Structure](#Structure)
-	6. [The Quran and General Topics](#General)
-	7. [**Verses in Context**](#Verses)
-2. [Hadith](#Hadith)
+1. [Hadith](#Hadith)
 	1. [Approaching the Hadith Corpus](#Approach)
 	2. [Preservation](#Preservation)
 	3. [**Hadith in Context**](#context)
 
 
-## Qur'an
-<details><summary>
-<b><font size="+1">Inimitability and Preservation<a name="Inimitability"></a> </font></b> <a name="Inimitability"></a></summary>
-<p>
 
-
-[The Miracles of the Quran - Sh. Muhammad Sha'rawi](https://web.archive.org/web/20210122041815/https://archive.org/details/TheMiraclesOfTheQuranShaykhSharawi)
-
-[Hunting for the Word of God - Dr. Sami Ameri](https://web.archive.org/web/20210122041815/https://archive.org/details/HuntingForTheWordOfGodTheQuestForTheOriginalTextOfTheNewTestamentAndTheQuranDr.SamiAmeri)
-
-[The History of the Quranic Text - Dr. Muhammad Mustafa Azami](https://web.archive.org/web/20210122041815/https://archive.org/details/TheHistoryOfTheQuranicTextFromRevelationToCompilationDr.M.M.AlAzami)
-
-[God's Testimony: The Divine Authorship of the Qur'an - Dr. Hamza Tzortzis](https://web.archive.org/web/20210122041815/http://www.hamzatzortzis.com/gods-testimony-the-divine-authorship-of-the-quran/)
-
-[The Inimitable Qur’an: The Revelation to Prophet Muhammad - Dr. Mohammad Elshinawy](https://web.archive.org/web/20210122041815/https://yaqeeninstitute.org/mohammad-elshinawy/the-inimitable-quran-the-revelation-to-prophet-muhammad/)
-
-[Brief Notes on the Miraculous Nature of the Quran](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/a7bex7/brief_notes_on_the_miraculous_nature_of_the_quran/)
-
-
-</p>
-</details>
-
-
-<details><summary>
-<b><font size="+1">Interpretation and Abrogation<a name="Interpretation"></a> </font></b> <a name="Interpretation"></a></summary>
-<p>
-
-
-[Interpreting the Quran and Violence](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/h9jfnv/meme_debunked_manual_for_interpreting_the_quran/)
-
-[Top Five Misquotations Of The Quran](https://web.archive.org/web/20210122041815/https://muslimmatters.org/2014/11/13/top-five-misquotations-of-the-quran/)
-
-[How Can I Misinterpret the Quran if its from God?](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9ijy4y/misinterpreting_the_quran/)
-
-[Abrogated Rulings in the Qur'an: Discerning their Divine Wisdom](https://web.archive.org/web/20210122041815/https://yaqeeninstitute.org/en/justin-parrott/abrogated-rulings-in-the-quran-discerning-their-divine-wisdom/)
-
-</p>
-</details>
-
-<details><summary>
-<b><font size="+1">Previous Scriptures<a name="Previous"></a> </font></b> <a name="Previous"></a></summary>
-<p>
-
-
-[The Quran on the Corruption of Previous Scriptures](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/a1ljqy/the_quran_on_the_corruption_of_previous_scriptures/)
-
-[Does The Quran Mentioning Stories Found In Previous Writings Threaten Its Credibility?](https://web.archive.org/web/20210122041815/https://www.call-to-monotheism.com/does_the_qur_an_mentioning_stories_found_in_previous_writings_threaten_its_credibility_)
-
-[Evidence That Islam Teaches That There Was Textual Corruption of The Christian and Jewish Scriptures](https://web.archive.org/web/20210122041815/https://www.call-to-monotheism.com/evidence_that_islam_teaches_that_there_was_textual_corruption_of_the_christian_and_jewish_scriptures)
-
-
-</p>
-</details>
-
-<details><summary>
-<b><font size="+1">Science<a name="Science"></a> </font></b> <a name="Science"></a></summary>
-<p> 
-
-[Understanding Science and the Quran](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=U_8rm7F8zE4)  (Video)
-
-[The Quran and Science: A Forced Marriage](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=fJs5tuFw-UY)  (Video)
-
-[Refuting Criticism of the Quran Which Attempts to use Science](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9cs9wq/refuting_criticism_of_the_quran_which_attempts_to/)
-
-[Problems with Saying There are "Scientific Miracles" in the Quran](https://web.archive.org/web/20210122041815/https://www.youtube.com/watch?v=ox_O3QFUc_A)  (Video)
-
-[Does Supernatural Phenomena Mentioned in Islamic Texts Require Scientific Evidence?](https://web.archive.org/web/20210122041815/https://old.reddit.com/r/MuslimsRespond/comments/9c7nkr/does_supernatural_phenomena_mentioned_in_islamic/)
-
-</p>
-</details>
-
-<details><summary>
-<b><font size="+1">Structure<a name="Structure"></a> </font></b> <a name="Structure"></a></summary>
-<p> 
-
-
-
-[Coherence in the Quran](https://web.archive.org/web/20210122041815/https://archive.org/details/CoherenceInTheQuranMustansirMir)
-
-[A Glimpse at the Order of the Chapters of Quran](https://web.archive.org/web/20210122041815/http://www.askimam.org/public/question_detail/37895)
-
-[Introduction to Parallelisms and Chiastic Structures in the Qur'an](https://web.archive.org/web/20210122041815/https://quranic-musings.blogspot.com/2014/10/an-introduction-to-parallelisms-and.html)
-
-</p>
-</details>
-
-<details><summary>
-<b><font size="+1">The Quran and General Topics<a name="General"></a> </font></b> <a name="General"></a></summary>
-<p> 
-
-
-
-[The Quran on Murder](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9g6tmy/the_quran_on_murder/)
-
-[The Quran on Racism](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/a42xyy/the_quran_on_racism/)
-
-[Love in the Holy Quran](https://web.archive.org/web/20210122041815/https://archive.org/details/LoveInTheHolyQuranPrinceGhazi)
-
-[The Human in the Qur’an](https://web.archive.org/web/20210122041815/https://renovatio.zaytuna.edu/article/the-human-in-the-quran)
-
-[The Moral World of the Quran](https://web.archive.org/web/20210122041815/https://archive.org/details/TheMoralWorldOfTheQuranShaykhAbdullahDraz)
-
-[The Ethical Worldview of the Quran](https://web.archive.org/web/20210122041815/https://yaqeeninstitute.org/yasienmohamed/the-ethical-worldview-of-the-quran/)
-
-[Reason and Rationality in the Quran](https://web.archive.org/web/20210122041815/http://muslimheritage.com/article/reason-and-rationality-quran)
-
-[What Does The Quran Say About Rape?](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9ra99f/what_does_the_quran_say_about_rape/)
-
-
-</p>
-</details>
-
-**Quran in Context**
-
-[Quran 2:62, 5:69](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9tv1f9/quran_262_569_in_context/)
-
-[Quran 2:65, 5:60, 7:166](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9h0c0g/quran_265_560_7166_in_context/)
-
-[Quran 2:83](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9x69fj/quran_283_in_context/)
-
-[Quran 2:157, 33:43, 33:56](https://web.archive.org/web/20210122041815/https://www.letmeturnthetables.com/2010/08/does-allah-pray-meaning-of-salah.html?fbclid=IwAR0rJ9danOwwRyk_Po6vfLASTstkZaVhrEmdX6GCwsC30E6Bi-qWwvJhhaA)  (Does Allah pray? Meaning of the word 'salah' used for Allah)
-
-[Quran 2:178, 2:194, 5:45, 16:126, 42:40](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/83o2ji/quran_2178_2194_545_16126_4240_in_context/)  (Retaliation)
-
-[Quran 2:190, 2:191, 2:192, 2:193, 2:194, 4:89, 8:39](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/83u4hi/quran_2190_2191_2192_2193_2194_in_context/)  ("Kill them wherever you find them")
-
-[Quran 2:225, 5:89](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/aotdiz/quran_2225_589_in_context/)
-
-[Quran 3:28, 3:118, 4:144, 5:51, 5:80](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/98tvng/quran_328_3118_4144_551_580_in_context/)
-
-[Quran 3:54, 4:142, 7:99, 7:183, 8:30, 10:21, 13:42, 27:50, 68:45, 86:15-16](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/7z1nx5/best_of_deceivers_dishonest_misinterpretation/)
-
-[Quran 3:106, 39:60](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9aod8b/quran_3106_3960_in_context/)
-
-[Quran 3:151](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8u2hcf/quran_3151_in_context/)
-
-[Quran 4:3, 4:24, 23:1-6, 33:50, 70:30](https://web.archive.org/web/20210122041815/https://abuaminaelias.com/sexual-consent-marriage-and-concubines-in-islam/)  ("Those whom your right hands possess")
-
-[Quran 4:34, 38:44](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8o2oej/quran_434_3844_in_context/)  (cf.  [The Prophet Never Beat Women](https://web.archive.org/web/20210122041815/https://abuaminaelias.com/the-prophet-never-beat-women-or-servants-or-animals/);  [Islam and Violence Against Women](https://web.archive.org/web/20210122041815/https://yaqeeninstitute.org/en/tesneem-alkiek/islam-and-violence-against-women-a-critical-look-at-domestic-violence-and-honor-killings-in-the-muslim-community/); Hadith [4], [7])
-
-[Quran 4:95](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/817i7t/quran_495_in_context/)
-
-[Quran 4:171, 5:73, 5:116](https://web.archive.org/web/20210122041815/https://discover-the-truth.com/2013/08/15/trinity-mary-worshipped-as-a-god/)
-
-[Quran 5:32, 5:33](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/a2hswh/quran_532_533_in_context/)
-
-[Quran 5:43, 5:44, 5:45, 5:46, 5:47](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/88izgn/quran_543_544_545_546_547_in_context/)
-
-[Quran 8:12, 8:60](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8adubm/quran_812_860_in_context/)  (cf. Hadith [10])
-
-[Quran 8:55, 98:6](https://web.archive.org/web/20210122041815/https://old.reddit.com/r/MuslimsRespond/comments/926nx7/quran_855_986_in_context/)
-
-[Quran 8:61](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/a0ng1i/quran_861_in_context/)
-
-[Quran 9:5](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/82k2p7/quran_95_in_context/)  (cf.  [Is Quran 9:5 Clear or Ambiguous?](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/a0469c/is_quran_95_clear_or_ambiguous/), Hadith [1])
-
-[Quran 9:29](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/7w9hwo/quran_929_in_context/)  (cf. Hadith [1], [3])
-
-[Quran 9:30](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8ywhyt/quran_930_in_context/)
-
-[Quran 17:85, 19:17, 70:4](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8yoisb/quran_1785_1917_704_in_context/)
-
-[Quran 18:74, 18:80, 18:81](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8pmqt8/quran_1874_1880_1881_in_context/)
-
-[Quran 19:28](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/hfb49h/quran_1928_in_context_quran_says_mary_is_the/)
-
-[Quran 22:52](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8626h0/debunked_the_satanic_verses/)
-
-[Quran 26:16](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/aaaz6z/quran_2616_in_context/)
-
-[Quran 33:53](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9lx10n/quran_3353_in_context/)
-
-[Quran 36:14](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/anj34g/quran_3614_in_context/)
-
-[Quran 36:38, 55:6](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/9yvuz8/the_do_you_know_where_the_sun_goesit_goes_till_it/)
-
-[Quran 42:11, 112:4](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/a51onr/quran_4211_1124_in_context/)
-
-[Quran 47:4](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/8m9x1u/quran_474_in_context/)
-
-[Quran 52:24, 56:17, 76:19](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/81atk2/quran_5224_5617_7619_in_context/)
-
-[Quran 60:7, 60:8, 60:9](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/84owwg/quran_607_608_609_in_context/)
-
-[Quran 62:5, 74:50](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/g4fymo/quran_625_7450_in_context/)
-
-[Quran 65:4, 2:228, 2:234, 33:49](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/81yupv/quran_654_in_context/)  (cf. Hadith [6])
-
-## Hadith
-
-<details><summary>
-<b><font size="+1">Approaching the Hadith Corpus<a name="Approach"></a> </font></b> <a name="Previous"></a></summary>
-<p>
+## Approaching the Hadith Corpus <a name="Approach"></a>
 
 
 
@@ -228,12 +30,7 @@
 [Give It a Second Thought: Guidelines on How to Approach Seemingly Problematic Hadīth](https://web.archive.org/web/20210122041815/http://www.ilmgate.org/give-it-a-second-thought-guidelines-on-how-to-approach-seemingly-problematic-hadith/)
 
 
-</p>
-</details>
-
-<details><summary>
-<b><font size="+1">Preservation<a name="Preservation"></a> </font></b> <a name="Preservation"></a></summary>
-<p>
+## Preservation <a name="Preservation"></a>
 
 
 
@@ -244,10 +41,8 @@
 [Can We Trust Hadith Literature? Understanding the Process of Transmission and Preservation](https://web.archive.org/web/20210122041815/https://yaqeeninstitute.org/en/muntasir-zaman/can-we-trust-hadith-literature-understanding-the-process-of-transmission-and-preservation/)
 
 
-</p>
-</details>
 
-**Hadith in Context**
+## Hadith in Context<a name="Context"></a>
 
 [1]  [The "I have been commanded to fight against people..." Hadith](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/7wgcjl/the_i_have_been_commanded_to_fight_against_people/)  Sahih Muslim 22
 
@@ -370,3 +165,4 @@
 [60]  [The "Hang your whip where the members of the household can see it" Hadith](https://web.archive.org/web/20210122041815/https://www.reddit.com/r/MuslimsRespond/comments/hklolv/the_hang_your_whip_where_the_members_of_the/)  al-Tabaraani 10/248, Majma’ al-Zawaa’id 8/106, Kash-shaf (Vol. 1, p. 525)
 
 [61]  [The Sun Sets in a Spring of Warm Water Hadith](https://web.archive.org/web/20210122041815/https://www.letmeturnthetables.com/2012/09/weak-hadith-sun-spring-warm-water.html)  Sunan Abu Dawud 3991/4002
+> Written with [StackEdit](https://stackedit.io/).
