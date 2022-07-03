@@ -11,27 +11,30 @@ This is complete list
 5. [Resources/Articles on Islam](#Resources)
 
 ## Common Arguments against Islam | Refuted <a name="CommonArguments"></a>
-[Did The Prophet  ﷺ Makeup Islam For His Own Benefit?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zl72k/did_the_prophet_%EF%B7%BA_makeup_islam_for_his_own_benefit/)
 
-[Prophet Muhammad  ﷺ's Marriage to Aisha (RA)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7uk1tg/prophet_muhammad_sawss_marriage_to_aisha_at_young/)
-
-[What is the Islamic teaching on Female Circumcision?](https://web.archive.org/web/20210122041931/http://www.drhatemalhaj.com/home/clarification-of-my-position-on-female-circumcision/)
-
-[Interpreting the Quran and Violence](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/h9jfnv/meme_debunked_manual_for_interpreting_the_quran/)
-
-[Moderate Muslims Want Radical Muslims To Kill You](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fm07bs/meme_debunked_moderate_muslims_want_radical/)
-
-[Why did Prophet Muhammad  ﷺ Raid Caravans in Medina?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8401u1/why_did_prophet_muhammad_raid_caravans_in_medina/)
-
-[Is What Happened with Banu Qurayza Actually a Problem?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/97ae3n/is_what_happened_with_banu_qurayza_actually_a/)
-
-[Did Islam Spread by the Sword? A Critical Look at Forced Conversions](https://web.archive.org/web/20210122041931/https://yaqeeninstitute.org/en/hassam-munir/did-islam-spread-by-the-sword-a-critical-look-at-forced-conversions/)
-
-[Debunked: The "Satanic Verses"](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8626h0/debunked_the_satanic_verses/)
-
-[Muhammad, Angel Gabriel, and Hallucinations](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/gtjbh7/muhammad_angel_gabriel_and_hallucinations/)
-
-[Muslims Believe Muhammad Flew on a Winged Horse So They Can’t Speak About Science, Reason, or Logic?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fy30e1/muslims_believe_muhammad_flew_on_a_winged_horse/)
+ - [Did The Prophet  ﷺ Makeup Islam For His Own
+   Benefit?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zl72k/did_the_prophet_%EF%B7%BA_makeup_islam_for_his_own_benefit/)
+ - [Prophet Muhammad  ﷺ's Marriage to Aisha
+   (RA)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7uk1tg/prophet_muhammad_sawss_marriage_to_aisha_at_young/)
+ - [What is the Islamic teaching on Female
+   Circumcision?](https://web.archive.org/web/20210122041931/http://www.drhatemalhaj.com/home/clarification-of-my-position-on-female-circumcision/)
+ - [Interpreting the Quran and
+   Violence](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/h9jfnv/meme_debunked_manual_for_interpreting_the_quran/)
+ - [Moderate Muslims Want Radical Muslims To Kill
+   You](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fm07bs/meme_debunked_moderate_muslims_want_radical/)
+ - [Why did Prophet Muhammad  ﷺ Raid Caravans in
+   Medina?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8401u1/why_did_prophet_muhammad_raid_caravans_in_medina/)
+ - [Is What Happened with Banu Qurayza Actually a
+   Problem?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/97ae3n/is_what_happened_with_banu_qurayza_actually_a/)
+ - [Did Islam Spread by the Sword? A Critical Look at Forced
+   Conversions](https://web.archive.org/web/20210122041931/https://yaqeeninstitute.org/en/hassam-munir/did-islam-spread-by-the-sword-a-critical-look-at-forced-conversions/)
+ - [Debunked: The "Satanic
+   Verses"](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8626h0/debunked_the_satanic_verses/)
+ - [Muhammad, Angel Gabriel, and
+   Hallucinations](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/gtjbh7/muhammad_angel_gabriel_and_hallucinations/)
+ - [Muslims Believe Muhammad Flew on a Winged Horse So They Can’t Speak
+   About Science, Reason, or
+   Logic?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fy30e1/muslims_believe_muhammad_flew_on_a_winged_horse/)
 
 ## Judaism and Christianity <a name="JudaismChristianity"></a>
 
@@ -39,26 +42,31 @@ This is complete list
 <b><font size="+1">Judaism (in most cases applicable to Christianity as well)</font></b><a name="Judaism"></a></summary>
 <p>
 
-[Judaism and White Lies](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/805fxp/judaism_and_white_lies/)
+ - [Judaism and White
+   Lies](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/805fxp/judaism_and_white_lies/)
+ - [Corruption of the Torah via the Oral
+   Law](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/ajsn1b/corruption_of_the_torah_via_the_oral_law/)
+ - [Does the Bible Allow Jews and Christians to be Friends with
+   Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/96isua/does_the_bible_allow_jews_and_christians_to_be/)
+ - [Biblical Laws, Values and
+   Theology](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8xcscr/biblical_laws_values_and_theology/)
 
-[Corruption of the Torah via the Oral Law](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/ajsn1b/corruption_of_the_torah_via_the_oral_law/)
-[Does the Bible Allow Jews and Christians to be Friends with Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/96isua/does_the_bible_allow_jews_and_christians_to_be/)
-
-[Biblical Laws, Values and Theology](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8xcscr/biblical_laws_values_and_theology/)
 ***
-[Head Covering Laws in the Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/943nyv/head_covering_laws_in_the_bible/)
 
-[The Testimony of Women in The Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8o3x0f/the_testimony_of_women_in_the_bible/)
-
-[The Intellectual Inferiority of Women According to the Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/9ay7ws/the_intellectual_inferiority_of_women_according/)
-
-[Abrogation in the Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/9e9d5d/abrogation_in_the_bible/)
-
-[Apostasy Laws in the Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8x2x6q/apostasy_laws_in_the_bible/)
-
-[Blasphemy Laws in the Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/aaozcg/blasphemy_laws_in_the_bible/)
-
-[Child Marriage and Consummation in the Bible and Talmud](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/81zu8n/child_marriage_and_consummation_in_the_bible_and/)
+ - [Head Covering Laws in the
+   Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/943nyv/head_covering_laws_in_the_bible/)
+ - [The Testimony of Women in The
+   Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8o3x0f/the_testimony_of_women_in_the_bible/)
+ - [The Intellectual Inferiority of Women According to the
+   Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/9ay7ws/the_intellectual_inferiority_of_women_according/)
+ - [Abrogation in the
+   Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/9e9d5d/abrogation_in_the_bible/)
+ - [Apostasy Laws in the
+   Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8x2x6q/apostasy_laws_in_the_bible/)
+ - [Blasphemy Laws in the
+   Bible](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/aaozcg/blasphemy_laws_in_the_bible/)
+ - [Child Marriage and Consummation in the Bible and
+   Talmud](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/81zu8n/child_marriage_and_consummation_in_the_bible_and/)
 
 </p>
 </details>
@@ -67,32 +75,31 @@ This is complete list
 <b><font size="+1">Christianity<a name="Christianity"></a> </font></b>  <a name="Judaism"></a></summary>
 <p>
 
-
-[Is John 8:1-11 ("Let him who is without sin among you be the first to throw a stone") in the Bible or a Fabrication?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8sf34w/is_john_8111_let_him_who_is_without_sin_among_you/)
-
-[Love Your Enemies In Islam? (Matthew 5:44)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8nrw8o/love_your_enemies_in_islam_matthew_544/)
-
-[Is Matthew 26:52 Proof of a Peaceful Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7ymycf/is_matthew_2652_proof_of_a_peaceful_christianity/)
-
-
-***
-[Is Christianity a Religion of Peace? On Fallacious Appeals to the Disciples](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/cct41s/is_christianity_a_religion_of_peace_on_fallacious/)
-
-
-[Does Christianity Allow Deception?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/985mwk/does_christianity_allow_deception/)
-
-[Does Christian Jesus Hate All Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8ie1bp/does_christian_jesus_hate_all_unbelievers/)
-
-[Are All Muslims Lying Anti-Christs According to Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zxcbc/are_all_muslims_lying_antichrists_according_to/)
+ - [Is John 8:1-11 ("Let him who is without sin among you be the first
+   to throw a stone") in the Bible or a
+   Fabrication?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8sf34w/is_john_8111_let_him_who_is_without_sin_among_you/)
+ - [Love Your Enemies In Islam? (Matthew
+   5:44)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8nrw8o/love_your_enemies_in_islam_matthew_544/)
+ - [Is Matthew 26:52 Proof of a Peaceful
+   Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7ymycf/is_matthew_2652_proof_of_a_peaceful_christianity/)
 
 ***
 
+ - [Is Christianity a Religion of Peace? On Fallacious Appeals to the
+   Disciples](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/cct41s/is_christianity_a_religion_of_peace_on_fallacious/)
+ - [Does Christianity Allow
+   Deception?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/985mwk/does_christianity_allow_deception/)
+ - [Does Christian Jesus Hate All
+   Unbelievers?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8ie1bp/does_christian_jesus_hate_all_unbelievers/)
+ - [Are All Muslims Lying Anti-Christs According to
+   Christianity?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7zxcbc/are_all_muslims_lying_antichrists_according_to/)
 
+***
 
-
-[William Lane Craig on the Incarnation and Trinity](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8zom7g/dr_william_lane_craig_on_the_incarnation_and/)
-
-[William Lane Craig on Lying in Christianity and Taqiyya](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/gyg4a2/william_lane_craig_on_lying_in_christianity_and/)
+ 1. [William Lane Craig on the Incarnation and
+    Trinity](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8zom7g/dr_william_lane_craig_on_the_incarnation_and/)
+ 2. [William Lane Craig on Lying in Christianity and
+    Taqiyya](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/gyg4a2/william_lane_craig_on_lying_in_christianity_and/)
 
 ***
 
@@ -106,25 +113,23 @@ This is complete list
 [Graphic: New Testament Reliability Comparison to Ancient Documents](https://web.archive.org/web/20210122041931/https://callingchristians.com/2017/03/11/graphic-nt-reliability-comparison-to-ancient-documents/?fbclid=IwAR2X0se2H41MuMdMkqn5pspmlFAXHZzdDtgZo12ShgqalxYRZCeNoxQNfyY)
 ****
 
-[Refuting the Positive Arguments for the Resurrection (RPAR) Part 1](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dyrcfb/refuting_the_positive_arguments_for_the/)
-
-[Refuting the Positive Arguments for the Resurrection (RPAR) Part 2](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dz9ivp/refuting_the_positive_arguments_for_the/)
+ 1. [Refuting the Positive Arguments for the Resurrection (RPAR) Part
+    1](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dyrcfb/refuting_the_positive_arguments_for_the/)
+ 2. [Refuting the Positive Arguments for the Resurrection (RPAR) Part
+    2](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dz9ivp/refuting_the_positive_arguments_for_the/)
 
 </p>
 </details>
 
 ## Rebuttals <a name="Rebuttals"></a>
-[Debunked: Ex-Muslims](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/801cmy/debunked_exmuslims/)
 
-[Debunked: Christian Apologetics](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/801e21/debunked_christian_apologetics/)
 
-[Debunked: Robert Spencer](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7uz9tz/robert_spencer_debunked/)
-
-[Pamela Geller Caught Lying About Honor Killings](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/islam/comments/7megss/pamela_geller_caught_lying_about_honor_killings/)
-
-[Debunked: Mohammed's Koran By Tommy Robinson](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7vw8pk/debunked_mohammeds_koran_by_tommy_robinson/)
-
-[Debunked: 'The People Vs Muhammad – Psychological Analysis’](https://web.archive.org/web/20210122041931/https://qurananswers.me/2017/09/11/people-vs-muhammad-refuted/)
+- [Debunked:       Ex-Muslims](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/801cmy/debunked_exmuslims/)
+- [Debunked: Christian    Apologetics](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/801e21/debunked_christian_apologetics/)
+- [Debunked: Robert    Spencer](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7uz9tz/robert_spencer_debunked/)
+- [Pamela Geller Caught Lying About Honor    Killings](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/islam/comments/7megss/pamela_geller_caught_lying_about_honor_killings/)
+- [Debunked: Mohammed's Koran By Tommy    Robinson](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7vw8pk/debunked_mohammeds_koran_by_tommy_robinson/)
+- [Debunked: 'The People Vs Muhammad – Psychological    Analysis’](https://web.archive.org/web/20210122041931/https://qurananswers.me/2017/09/11/people-vs-muhammad-refuted/)
 
 ***
 
