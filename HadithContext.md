@@ -1,4 +1,7 @@
 
+---
+permalink: /HadithContext.html
+---
 
 # Ahadith contextualized
 
