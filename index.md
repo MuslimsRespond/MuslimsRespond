@@ -114,7 +114,8 @@ This is complete list
 
 
 [Graphic: New Testament Reliability Comparison to Ancient Documents](https://web.archive.org/web/20210122041931/https://callingchristians.com/2017/03/11/graphic-nt-reliability-comparison-to-ancient-documents/?fbclid=IwAR2X0se2H41MuMdMkqn5pspmlFAXHZzdDtgZo12ShgqalxYRZCeNoxQNfyY)
-****
+
+----
 
  1. [Refuting the Positive Arguments for the Resurrection (RPAR) Part
     1](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dyrcfb/refuting_the_positive_arguments_for_the/)
@@ -268,6 +269,8 @@ This is complete list
 - [Imam Ibn Kathir on Quran 2:190, 9:5, 9:29, 9:36 and 60:7-9](https://web.archive.org/web/20210122041931/https://old.reddit.com/r/MuslimsRespond/comments/8bs4z8/imam_ibn_kathir_on_quran_2190_95_929_936_and_6079/)
 
 - [Imam al-Qurtubi on Quran 2:190, 2:193, 9:5 and Perpetual Jihad](https://web.archive.org/web/20210122041931/https://old.reddit.com/r/MuslimsRespond/comments/8aknwj/imam_al_qurtubi_on_quran_2190_2193_95_and/)
+
+
 ----
 
 
