@@ -3,7 +3,7 @@ Praise be to Allah, Lord of the Worlds. Peace and Blessings of Allah be upon our
 
 This is complete list 
 ## Table of contents
-1. [Common Arguments against Islam | Refuted ](#CommonArguments)
+1. [Common Arguments against Islam - Refuted ](#CommonArguments)
 2. [Judaism and Christianity](#JudaismChristianity)
 	1. [Judaism](#Judaism)
 	2. [Christianity](#Christianity)
