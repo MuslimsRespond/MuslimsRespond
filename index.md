@@ -48,9 +48,7 @@ This is complete list
 
 ## Judaism and Christianity <a name="JudaismChristianity"></a>
 
-<details><summary>
-<b><font size="+1">Judaism (in most cases applicable to Christianity as well)</font></b><a name="Judaism"></a></summary>
-<p>
+### Judaism
 
  - [Judaism and White
    Lies](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/805fxp/judaism_and_white_lies/)
@@ -78,12 +76,7 @@ This is complete list
  - [Child Marriage and Consummation in the Bible and
    Talmud](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/81zu8n/child_marriage_and_consummation_in_the_bible_and/)
 
-</p>
-</details>
-
-<details><summary>
-<b><font size="+1">Christianity<a name="Christianity"></a> </font></b>  <a name="Judaism"></a></summary>
-<p>
+### Christianity
 
  - [Is John 8:1-11 ("Let him who is without sin among you be the first
    to throw a stone") in the Bible or a
@@ -128,8 +121,7 @@ This is complete list
  2. [Refuting the Positive Arguments for the Resurrection (RPAR) Part
     2](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/dz9ivp/refuting_the_positive_arguments_for_the/)
 
-</p>
-</details>
+
 
 ## Rebuttals <a name="Rebuttals"></a>
 
@@ -154,9 +146,7 @@ This is complete list
 ## Resources/Articles on Islam <a name="Resources"></a>
 
 
-<details><summary>
-<b><font size="+1">Quranic and Hadith Contextualized<a name="Context"></a> </font></b>  <a name="Context"></a></summary>
-<p>
+
 
 
 [Quran and Hadith - In Context](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/82y1uh/quran_and_hadith_in_context/)
@@ -165,15 +155,7 @@ This is complete list
 
 [Most Misinterpreted Verses Of The Quran?](https://web.archive.org/web/20210122041931/https://discover-the-truth.com/2016/05/27/most-misinterpreted-verses-of-the-quran/)
 
-</p>
-</details>
-
-
-
-<details><summary>
-<b><font size="+1">General Articles<a name="General"></a> </font></b>  <a name="General"></a></summary>
-<p>
-
+***
 
 1. [Why I Am A Muslim](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/fflyfm/why_i_am_a_muslim_asadullah_ali/)
 
@@ -206,13 +188,9 @@ This is complete list
 
 ****
 
-</p>
-</details>
 
 
-<details><summary>
-<b><font size="+1">The Prophet ﷺ<a name="Prophet"></a> </font></b>  <a name="Prophet"></a></summary>
-<p>
+### Prophet ﷺ
 
 - [Does Islam Deify Prophet Muhammad  ﷺ?](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/c6rti5/does_islam_deify_prophet_muhammad_%EF%B7%BA/)
 
@@ -234,13 +212,7 @@ This is complete list
 
 
 
-</p>
-</details>
-
-
-<details><summary>
-<b><font size="+1">Islam, War, and Violence<a name="Violence"></a> </font></b>  <a name="Violence"></a></summary>
-<p>
+### Islam, War and Violence
 
 
 
@@ -266,14 +238,7 @@ This is complete list
 
 - [Resource List: Refuting Terrorists](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/7wuzp4/resource_list_refuting_terrorists/)
 
-</p>
-</details>
-
-
-
-<details><summary>
-<b><font size="+1">Common References - In Context<a name="Common"></a> </font></b>  <a name="Common"></a></summary>
-<p>
+# Common References
 
 
 
@@ -314,8 +279,6 @@ This is complete list
 - [Reliance of the Traveller and Honor Killing (o1.2)](https://web.archive.org/web/20210122041931/https://www.reddit.com/r/MuslimsRespond/comments/8pw23l/debunked_reliance_of_the_traveller_endorses_honor/)
 ----
 
-</p>
-</details>
 
 
 
