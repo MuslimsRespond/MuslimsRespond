@@ -1,4 +1,4 @@
-baseurl = "muslimsrespond.github.io"
+baseurl = "muslimsrespond.github.io/MuslimsRespond"
 languageCode = "en-us"
 title = "Muslims Respond"
 theme = "hugo-theme-learn"
