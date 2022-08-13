@@ -1,0 +1,21 @@
+baseurl = "muslimsrespond.github.io"
+languageCode = "en-us"
+title = "Muslims Respond"
+theme = "hugo-theme-learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # Prefix URL to edit current page. Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  # Author of the site, will be used in meta information
+  author = "Abdullah Mujahid"
+  # Description of the site, will be used in meta information
+  description = "Muslims Respond is an Islamic library collecting a large variety of sources regarding rebuttals and refutations countering allegations against hadiths and Quran."
+  # Shows a checkmark for visited pages on the menu. Default to false
+  showVisitedLinks = false
+  # Automatically generates prev and next arrows
+  autoNav = true
+  # Coloring of the documentation website
+  themeVariant = "utn"
